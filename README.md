@@ -1,1 +1,2 @@
-# 300-Leonidas-learns-Neural-Networks
+Leonidas is the King of the Spartan Army. He is at war with Persian forces. The Persian leader came up with a tactic of sending his troops to the Spartan base through a secret passway. Little did he know the there was a camera that took pictures of the soldiers passing though the passway. Leonidas came up with an algorithm to find out if the picture of the soldier is that of his Spartan comrades or the evil Persian scum. Leonidas is smart. He used neural networks to complete his task.
+(Due to scarcity of dataset, this project is still a work in progress)
